@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TabApp</string>
+
+    <string name="title_section1">Sports</string>
+    <string name="title_section2">Films</string>
+    <string name="title_section3">Livres</string>
+    <string name="title_section4">Musiques</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="sports_info">Tenants  du  titre,  les  Irlandais  restent  plus  que  jamais  candidats  à  leur  propre  succession  dans  le  Tournoi des 6 Nations après leur victo ire (19 - 9) ce dimanche, à Dublin, face à l’Angleterre, privée du  même coup de Grand Chelem. Le XV du Trèfle égale au passage son record de 10 succès consécutifs,  mais pourrait avoir perdu sur blessure Jonathan Sexton encore décisif.</string>
+    <string name="films_info">Intouchables est un film français réalisé par Olivier Nakache et Éric Toledano, sorti en France le 2 novembre 2011 au cinéma.
+Lhistoire est inspirée de la vie de Philippe Pozzo di Borgo (auteur du livre Le Second Souffle), tétraplégique depuis 1993, et de sa relation avec Abdel Yasmin Sellou, son aide à domicile, dont les rôles sont tenus respectivement par les acteurs François Cluzet et Omar Sy.</string>
+    <string name="livres_info">Merci pour ce moment est un essai autobiographique de Valérie Trierweiler, publié le 4 septembre 2014 par les éditions Les Arènes, consacré à sa relation amoureuse avec le président de la République François Hollande</string>
+    <string name="musiques_info">Marshall Bruce Mathers III, dit Eminem (ne le 17 octobre 1972 à Saint Joseph au Missouri), est un auteur-compositeur-interprète de rap américain, également producteur et acteur. En plus de sa carrière solo, il est aussi membre du groupe D12 dont il est le cofondateur et compose le duo Bad Meets Evil avec Royce da 59.</string>
+    <string name="plus_infos_livre">ACHETER CE LIVRE</string>
+    <string name="avis">Titi : Rien dextraordinaire.
+Le livre se lit facilement mais pas de super secrets révélés ! une revanche médiatique.\n\n
+Aurélie :  Un brin pathétique.
+Une histoire de femme parmi tant d autres bien plus malheureuses qui n ont pas les moyens d en faire un livre. On lit par voyeurisme, voir jusquou ça peut aller…Sans intérêt\n\n
+Sakura : simplement bien écrit
+Par curiosité jai acheté le livre je nétais pas fan de lauteur mais en lisant le livre que jai trouvé bien écrit jai éprouvé de la sympathie son égard et très dessus du comportement de hollande un homme qui na aucune parole
+    </string>
+</resources>
